@@ -22,7 +22,7 @@ disqusShortname = "yourdiscussshortname"
     #footercontent = "Enter a text here."
     #fixedbarContent = "Do you want to know me more private?→"
    # fixedbarContentAfter = "Thank You! Please share it if you like it→"
-
+    color_theme = "dark"
     hideCredits = false
     hideCopyright = false
 
@@ -74,6 +74,9 @@ disqusShortname = "yourdiscussshortname"
     name = "Contact me"
     weight = 5
     url = "/url/contact/"
-
+[[menu.main]]
+    name = "hello there"
+    weight = 3
+    post = "/post/my-first-post/"
 
 
