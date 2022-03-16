@@ -1,0 +1,79 @@
+baseurl = "http://www.projects.javierhernandez.com"
+title = "Javier Hernandez"
+
+theme = "coder-portfolio"
+
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Javier Hernandez"
+    description = "Javi's Portfolio"
+    keywords = "portfolio,marketing,personal"
+    info = "Business Administration"
+    avatarurl = "images/IMG_0455.jpg"
+    #footercontent = "Enter a text here."
+    #fixedbarContent = "Do you want to know me more private?→"
+   # fixedbarContentAfter = "Thank You! Please share it if you like it→"
+
+    hideCredits = false
+    hideCopyright = false
+
+    # Bottom sns share
+    snsShare = true
+    # Popular sns share
+    # if you want add sns. please message!
+    # enableTwitterShare = true
+    # enableFacebookShare = true
+    # enableHatenaShare = true
+    # enableLineShare = true
+    # enableLinkedInShare = true
+
+    thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/javi510/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 4
+    url = "https://www.linkedin.com/in/javierhernandez160/"
+
+        # You can configure the theme parameter for each language.
+
+[[menu.main]]
+    name = "About"
+    weight = 1.0
+    url = "/url/about-section/"
+
+[[menu.main]]
+    name = "Projects"
+    weight = 3
+    url = "/url/projects/"
+[[menu.main]]
+    name = "Contact me"
+    weight = 5
+    url = "/url/contact/"
+
+
+
