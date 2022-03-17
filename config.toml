@@ -18,11 +18,10 @@ disqusShortname = "yourdiscussshortname"
     description = "Javi's Portfolio"
     keywords = "portfolio,marketing,personal"
     info = "Business Administration"
-    avatarurl = "images/IMG_0455.jpg"
+    avatarurl = "portfolio/static/images/IMG_0455.jpg"
     #footercontent = "Enter a text here."
     #fixedbarContent = "Do you want to know me more private?→"
    # fixedbarContentAfter = "Thank You! Please share it if you like it→"
-    color_theme = "dark"
     hideCredits = false
     hideCopyright = false
 
@@ -70,13 +69,6 @@ disqusShortname = "yourdiscussshortname"
     name = "Projects"
     weight = 3
     url = "/url/projects/"
-[[menu.main]]
-    name = "Contact me"
-    weight = 5
-    url = "/url/contact/"
-[[menu.main]]
-    name = "hello there"
-    weight = 3
-    post = "/post/my-first-post/"
+
 
 
