@@ -50,7 +50,9 @@ disqusShortname = "yourdiscussshortname"
     rtl = false
 
     langseparator = "|"
-
+[[permalinks]]
+    post = "/:slug"
+    
 [[params.social]]
     name = "Github"
     icon = "fab fa-github"
