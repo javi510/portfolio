@@ -29,7 +29,7 @@ Sony TVs are some of the best televisions to buy. TechRadar, a website dedicated
 Assets are key factor in determining the value of a firm. They represent an economic resource that can be used to generate cash flow now or in the future. There are varying types of assets that a company can have. Assets can be found in the balance sheet of a company. 
 
 **Table 1:**  
-| Balance Sheet |  |
+| Balance Sheet | *– Currency in JPY. All numbers in thousands* 
 | :--- | :----: | ---: |
-| Header | Title | Here's this |
+| Total Assets | Title | Here's this |
 | Paragraph | Text | And more |
