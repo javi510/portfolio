@@ -13,8 +13,7 @@ pygmentsUseClasses = true
 
 disqusShortname = "yourdiscussshortname"
 
-[permalinks]
-    post = "/:slug/"
+
 
 [params]
     author = "Javier Hernandez"
