@@ -7,7 +7,8 @@ draft: false
 ---
 
 
-![Sony Group Corporation](images/SonyLogo.jpg) 
+![Sony Group Corporation](/images/PSLogo.jpg?nf_resize=fit&w=100&h=200) 
+
 ## The Equity Research of Sony Group Corporation
 Javier Hernandez  
 FIN 605  
