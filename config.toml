@@ -13,6 +13,9 @@ pygmentsUseClasses = true
 
 disqusShortname = "yourdiscussshortname"
 
+[permalinks]
+    post = "/:slug/"
+
 [params]
     author = "Javier Hernandez"
     description = "Javi's Portfolio"
@@ -68,7 +71,7 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Projects"
     weight = 3
-    url = "/Projects/projects/"
+    url = "/post/"
 
 
 
