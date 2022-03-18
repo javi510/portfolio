@@ -28,8 +28,8 @@ Sony TVs are some of the best televisions to buy. TechRadar, a website dedicated
 ##### Value Drivers
 Assets are key factor in determining the value of a firm. They represent an economic resource that can be used to generate cash flow now or in the future. There are varying types of assets that a company can have. Assets can be found in the balance sheet of a company. 
 
-**Table 1:**
-1 | Syntax | Description | Test Text |
-2 | :--- | :----: | ---: |
-3 | Header | Title | Here's this |
-4 | Paragraph | Text | And more |
+**Table 1:**  
+| Balance Sheet |  |
+| :--- | :----: | ---: |
+| Header | Title | Here's this |
+| Paragraph | Text | And more |

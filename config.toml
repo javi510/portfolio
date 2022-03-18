@@ -64,6 +64,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     icon = "fab fa-linkedin"
     weight = 3
     url = "https://www.linkedin.com/in/javierhernandez160/"
+    
 [[params.social]]
     # If icon is not set, Text is displayed.
     name = "LinkedIn"
