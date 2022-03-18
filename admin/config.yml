@@ -1,6 +1,4 @@
 # this is the config file for cms for netlify
-
-
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
