@@ -18,7 +18,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     info = "Business Administration" # Author's job title or info.
     description = "Javier's personal portfolio" # Site description.
     keywords = "portfolio,marketer,personal" # Site keywords.
-    avatarurl = "https://drive.google.com/file/d/1r53wHkhGmJ9pkOcOb23riq6bPD8-_ANB/view?usp=sharing" # Contain the path of the optional avatar in the static folder.
+    avatarurl = "" # Contain the path of the optional avatar in the static folder.
 
     #footercontent = "Enter a text here." # Add footer content
     #fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
