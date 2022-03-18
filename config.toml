@@ -1,5 +1,5 @@
 baseurl = "" # Hostname (and path) to the root.
-title = "Yusuke Ishimi" # Site title.
+title = "Javier Hernandez" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "en" # The default content language.
@@ -14,15 +14,15 @@ pygmentsUseClasses = true # new add
 disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
 [params] # theme parameters
-    author = "Yusuke Ishimi" # Author's name.
-    info = "WEB AND APPS ENGINEER" # Author's job title or info.
-    description = "Yusuke Ishimi's personal website" # Site description.
-    keywords = "blog,developer,personal" # Site keywords.
-    avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
+    author = "Javier Hernandez" # Author's name.
+    info = "Business Administration" # Author's job title or info.
+    description = "Javier's personal portfolio" # Site description.
+    keywords = "portfolio,marketer,personal" # Site keywords.
+    avatarurl = "images/IMG_0455.jpg" # Contain the path of the optionnal avatar in the static folder.
 
-    footercontent = "Enter a text here." # Add footer content
-    fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
-    fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
+    #footercontent = "Enter a text here." # Add footer content
+    #fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
+    #fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = false
@@ -41,11 +41,11 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     snsShare = true # new add
     # Popular sns share
     # if you want add sns. please message!
-    enableTwitterShare = true  # new add
-    enableFacebookShare = true # new add
-    enableHatenaShare = true   # new add
-    enableLineShare = true     # new add
-    enableLinkedInShare = true # new add
+    #enableTwitterShare = true  # new add
+    #enableFacebookShare = true # new add
+    #enableHatenaShare = true   # new add
+    #enableLineShare = true     # new add
+    #enableLinkedInShare = true # new add
 
     thumbnail = "images/tn.png" # default sns thumbnail
 
@@ -57,29 +57,26 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/naro143/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 2
-    url = "https://twitter.com/naro143/"
+    url = "https://github.com/javi510/"
+
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 3
-    url = "https://www.linkedin.com/in/naro143/"
+    url = "https://www.linkedin.com/in/javierhernandez160/"
 [[params.social]]
     # If icon is not set, Text is displayed.
     name = "LinkedIn"
     weight = 4
-    url = "https://www.linkedin.com/in/naro143/"
+    url = "https://www.linkedin.com/in/javierhernandez160/"
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "posts"
-[[menu.main]]
     name = "About"
     weight = 2
-    url = "about"
+    url = "/About/about-section"
+
+[[menu.main]]
+    name = "Projects"
+    weight = 1
+    url  = "/Projects/"
