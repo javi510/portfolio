@@ -1,8 +1,15 @@
 ---
-title: "Projects"
-date: 2022-03-15T21:25:24-07:00
-slug: "projects"
-thumbnail: "images/tn.png"
+title = 'Blog'
+[[cascade]]
+background = 'yosemite.jpg'
+[cascade._target]
+  kind = 'page'
+  lang = 'en'
+  path = '/blog/**'
+[[cascade]]
+background = 'goldenbridge.jpg'
+[cascade._target]
+  kind = 'section'
 draft: false
 ---
 
