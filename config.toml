@@ -74,7 +74,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 [[menu.main]]
     name = "About"
     weight = 2
-    url = "/About/about-section"
+    url = "about-section"
 
 [[menu.main]]
     name = "Projects"
