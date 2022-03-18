@@ -7,7 +7,7 @@ draft: false
 ---
 
 
-![Sony Group Corporation](/images/PSLogo.jpg?nf_resize=fit&w=100&h=200) 
+![Sony Group Corporation](/images/PSLogo.jpg?nf_resize=fit&w=300&h=400) 
 
 ## The Equity Research of Sony Group Corporation
 Javier Hernandez  
