@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javier Hernandez</title>
+    <link>/</link>
+    <description>Recent content on Javier Hernandez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Mar 2022 21:21:31 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project1</title>
+      <link>/projects/project1/</link>
+      <pubDate>Thu, 17 Mar 2022 21:21:31 -0700</pubDate>
+      
+      <guid>/projects/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/projects/</link>
+      <pubDate>Tue, 15 Mar 2022 21:25:24 -0700</pubDate>
+      
+      <guid>/projects/projects/</guid>
+      <description>The Equity Research of Sony Group Corporation Javier Hernandez
+FIN 605
+Prof. Scott Fung
+12/5/21
+ BUSINESS ANALYSIS Best Products/Services The Sony Group Corporation was founded in 1946 in Japan, and its IPO date was September 1970. The company trades in the New York Stock Exchange, under the stock ticker SONY, and the Tokyo Stock Exchange. Sony is a recognizable company that has brought many products to fame here in the US, from the introduction of the Walkman back in the 80s to the release of the PlayStation 5 last year.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>/post/my-first-post/</link>
+      <pubDate>Tue, 15 Mar 2022 17:10:07 -0700</pubDate>
+      
+      <guid>/post/my-first-post/</guid>
+      <description>Hello There </description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>This theme is created based on hugo-coder.
+I made it possible to tell yourself more by my change.
+Please see &amp;ldquo;FeaturesOfCoderPortfolio&amp;rdquo; in the post about the change. Regarding other demo contents, it is hugo-coder&amp;rsquo;s thing.
+Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.
+ Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "v0.94.2"
+
+[dev]   
+  command = "hugo serve -D"
+  HUGO_VERSION = "v0.94.2"
+[dev.environment]
+  HUGO_VERSION = "v0.94.2"
