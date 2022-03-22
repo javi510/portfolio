@@ -81,8 +81,4 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     name = "Projects"
     weight = 1
     url  = "/Projects/"
-<<<<<<< HEAD
-=======
-[markup.goldmark.renderer]
-    unsafe= true
->>>>>>> 4798aa5206d8411c9b544e532e58c7b9a5acc5f3
+
