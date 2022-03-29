@@ -95,35 +95,34 @@ opportunity to grow and be just as good as Game Pass. It is on Sony to make the 
 
 - - - - - - - - - - - - - - - - - - - - - -
 #### References
-Croft, Liam. “PS Plus Subscriber Count Reaches an Impressive 47.4 Million.” Push Square, 3 
+1. Croft, Liam. “PS Plus Subscriber Count Reaches an Impressive 47.4 Million.” Push Square, 3 
 Feb. 2021, 
 www.pushsquare.com/news/2021/02/ps_plus_subscriber_count_reaches_an_impressive_47_4_million.   
-Gaikai. (2021, January 14). In Wikipedia. https://en.wikipedia.org/wiki/Gaikai. 
-Henderson, Rik. “What Is Xbox Game Pass and How Much Does It Cost?” Pocket-Link, 16 Mar. 2021, www.pocket-lint.com/games/news/xbox140423-what-is-xbox-game-pass-how-it-works-price-and-all-the-games-you-can-play.   
-Ivan, Tom. “Sony Says It Plans to Reveal 'a Compelling PS5 Games Line-up' Soon.” VGC, 2 June 2020, www.videogameschronicle.com/news/sony-plans-to-reveal-compelling-ps5-games-line-up-soon/ https://www.videogameschronicle.com/news/sony-plans-to-reveal-compelling-ps5-games-line-up-soon/.  
-Jamshidi, Peter. “PlayStation Now Subscription Program: All The Details.” PlayStation Blog, 
+2. Gaikai. (2021, January 14). In Wikipedia. https://en.wikipedia.org/wiki/Gaikai. 
+3. Henderson, Rik. “What Is Xbox Game Pass and How Much Does It Cost?” Pocket-Link, 16 Mar. 2021, www.pocket-lint.com/games/news/xbox140423-what-is-xbox-game-pass-how-it-works-price-and-all-the-games-you-can-play.   
+4. Ivan, Tom. “Sony Says It Plans to Reveal 'a Compelling PS5 Games Line-up' Soon.” VGC, 2 June 2020, www.videogameschronicle.com/news/sony-plans-to-reveal-compelling-ps5-games-line-up-soon/ https://www.videogameschronicle.com/news/sony-plans-to-reveal-compelling-ps5-games-line-up-soon/.  
+5. Jamshidi, Peter. “PlayStation Now Subscription Program: All The Details.” PlayStation Blog, 
 PlayStation, 7 Jan. 2015, https://blog.playstation.com/2015/01/05/playstation-now-subscription-program-all-the-details/.  
-Maxwell, Tom. “Xbox Game Pass Subscribers Actually Spend More, Not Less, on Gaming.” Input, Input, 24 Mar. 2021, www.inputmag.com/gaming/microsoft-says-xbox-game-pass-subscribers-play-more-spend-more#:~:text=Xbox%20Game%20Pass%20has%2018,will%20be%20available%20Game%20Pass.    
-Palm, Toby. “Outriders Available Now with Xbox Game Pass.” Xbox Wire, 1 Apr. 2021, www.news.xbox.com/en-us/2021/04/01/outriders-available-now-with-xbox-game-pass/.   
-Phillips, Tom. “Xbox Game Pass Grows to 18 Million Members.” Eurogamer.net, 
+6. Maxwell, Tom. “Xbox Game Pass Subscribers Actually Spend More, Not Less, on Gaming.” Input, Input, 24 Mar. 2021, www.inputmag.com/gaming/microsoft-says-xbox-game-pass-subscribers-play-more-spend-more#:~:text=Xbox%20Game%20Pass%20has%2018,will%20be%20available%20Game%20Pass.    
+7. Palm, Toby. “Outriders Available Now with Xbox Game Pass.” Xbox Wire, 1 Apr. 2021, www.news.xbox.com/en-us/2021/04/01/outriders-available-now-with-xbox-game-pass/.   
+8. Phillips, Tom. “Xbox Game Pass Grows to 18 Million Members.” Eurogamer.net, 
 Eurogamer.net, 28 Jan. 2021, www.eurogamer.net/articles/2021-01-27-xbox-game-pass-grows-to-18-million-subscribers#:~:text=Like%20and%20subscribe.&amp;text=Microsoft%20has%20announ
 ced%20a%20new,last%20mentioned%20in%20September%202020.  
-PlayStation. “PS Now: Hundreds of Incredible Games on Demand.” PlayStation, 2021, 
+9. PlayStation. “PS Now: Hundreds of Incredible Games on Demand.” PlayStation, 2021, 
 www.playstation.com/en-us/ps-now/?smcid=pdc%3Aen-us%3Aprimary+nav%3Amsg-services%3Aps-now.  
-PlayStation. “PlayStation Plus: Monthly Games, Online Multiplayer, Discounts, and More.” 
+10. PlayStation. “PlayStation Plus: Monthly Games, Online Multiplayer, Discounts, and More.” 
 PlayStation, 2021, www.playstation.com/en-us/ps-plus/?smcid=pdc%3Aen-us%3Aps-now%3Aprimary+nav%3Amsg-services%3Aps-plus.  
-PlayStation Network. (2021, April 28). In Wikipedia.  
+11. PlayStation Network. (2021, April 28). In Wikipedia.  
 https://en.wikipedia.org/wiki/PlayStation_Network.  
-PlayStation Now. (2021, April 22). In Wikipedia. 
+12. PlayStation Now. (2021, April 22). In Wikipedia. 
 https://en.wikipedia.org/wiki/PlayStation_Now.  
-Shepherd, Harry. “Xbox Game Pass vs PlayStation Now: Which Is the Best Game Subscription 
+13. Shepherd, Harry. “Xbox Game Pass vs PlayStation Now: Which Is the Best Game Subscription 
 Service?” TechRadar, TechRadar, 17 Mar. 2021, www.techradar.com/news/xbox-game-pass-vs-playstation-now-which-is-the-best-game-subscription-service.   
-Warren, Tom. “Microsoft's New Xbox Game Pass Subscription Grants Access to More than 100 
+14. Warren, Tom. “Microsoft's New Xbox Game Pass Subscription Grants Access to More than 100 
 Games.” The Verge, The Verge, 28 Feb. 2017, 
 www.theverge.com/2017/2/28/14761624/xbox-game-pass-subscription-game-service-features-pricing.  
-Webb, Kevin. “Microsoft's Supercharged Xbox Subscription Service Will Save Me $5 Every 
+15. Webb, Kevin. “Microsoft's Supercharged Xbox Subscription Service Will Save Me $5 Every 
 Month, and I'm Convinced That It's the Best Deal in Gaming Right Now.” Business 
 Insider, Business Insider, 10 June 2019, www.businessinsider.com/xbox-game-pass-ultimate-pc-best-deal-2019-6.  
-Xbox Game Pass. (2021, March 29). In Wikipedia. 
-www.wikipedia.org/wiki/Xbox_Game_Pass#:~:text=On%20April%2018%2C%202019%
+16. Xbox Game Pass. (2021, March 29). In Wikipedia. www.wikipedia.org/wiki/Xbox_Game_Pass#:~:text=On%20April%2018%2C%202019%
 2C%20Microsoft,began%20on%20June%209%2C%202019.
