@@ -53,7 +53,7 @@
          },
          "renderer": {
             "hardWraps": false,
-            "unsafe": false,
+            "unsafe": true,
             "xhtml": false
          }
       },
