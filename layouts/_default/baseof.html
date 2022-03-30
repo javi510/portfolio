@@ -19,8 +19,6 @@
     <meta name="twitter:site" content="{{ .Permalink }}">
     <meta name="twitter:image" content="{{ if .IsPage }}{{ .Site.BaseURL }}{{ .Params.thumbnail }}{{ else }}{{ .Site.BaseURL }}{{ .Site.Params.thumbnail }}{{ end }}">
 
-    {{ partial "google-fonts" . }}
-
     <base href="{{ .Permalink }}">
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 

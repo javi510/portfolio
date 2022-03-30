@@ -14,15 +14,14 @@ pygmentsUseClasses = true # new add
 disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
 [params] # theme parameters
-    author = "Javier Hernandez" # Author's name.
+    author = "Javier Hernandez, MBA" # Author's name.
     info = "Business Administration" # Author's job title or info.
     description = "Javier's personal portfolio" # Site description.
     keywords = "portfolio,marketer,personal" # Site keywords.
     avatarurl = "images/ProfilePic.jpg" # Contain the path of the optional avatar in the static folder.
 
-
     #footercontent = "Connect with me if you are interested in my work!" # Add footer content
-    #fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
+    #fixedbarContent = "Connect with me if you are interested in my work!" # Add fixedbar content
     #fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
 
     # Whether you want to hide copyright and credits in the footer.
@@ -66,11 +65,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     weight = 3
     url = "https://www.linkedin.com/in/javierhernandez160/"
 
-[[params.social]]
-    # If icon is not set, Text is displayed.
-    name = "LinkedIn"
-    weight = 4
-    url = "https://www.linkedin.com/in/javierhernandez160/"
+
 
 # Menu links
 [[menu.main]]
@@ -85,5 +80,5 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
 [markup.goldmark.renderer]
       hardWraps = false
-      unsafe = false
+      unsafe = true
       xhtml = false
