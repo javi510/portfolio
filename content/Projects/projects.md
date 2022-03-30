@@ -204,7 +204,7 @@ Sony has a number of capital market imperfections. The main imperfections it suf
 
 ## FIRM VALUATION WITH SENSITIVITY ANALYSES
 ##### Valuation Assumptions
-Table 4: 
+Table 4:  
 ![Valuation Assumptions](/images/ValuationAssumptions.png?nf_resize=fit&w=300&h=400)   
 The sales growth rate is derived from Yahoo! Finance, and it is the analysts forecast for future 5-years sales growth. The sales growth rate shows how much year over year sales will increase. Long-term growth rate is based on security analysts’ forecasts. Beta indicates the stocks sensitivity. Stocks with betas greater than 1.0 tend to amplify the overall movements of the market. Stocks with betas between 0 and 1.0 tend to move in the same direction as the market, but not as far. The average stock has a beta of 1.0. MarketWatch states that Sony has a beta that is 0.85, which coincides with the stocks whose betas are between 0 and 1.0 illustrating that the stock price moves in the same direction as the market. For reduction in capital expenditure, if it is equal to 1, then that means that there would be no reduction in projected Capital Expenditures in the future. So, if it were to drop to 0.8, then the reduction in projected Capital Expenditures in the future will be 20%.
 
