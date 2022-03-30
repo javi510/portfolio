@@ -5,7 +5,7 @@ image:
 draft: false
 ---
 
-![PlayStation Now](/images/playstation-now.jpg?nf_resize=fit&w=300&h=400)
+![PlayStation Now](/images/playstation-now.jpg)
 Javier Hernandez  
 Prof. Joseph Kuehn  
 ECON 606  
