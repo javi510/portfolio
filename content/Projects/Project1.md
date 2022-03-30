@@ -75,6 +75,7 @@ offered through Game Pass. It is clear that Game Pass has its perks and people a
 As noted by website Eurogamer, “Microsoft has announced a new total of 18 million monthly 
 subscribers to Xbox Game Pass” (Phillips, 2021). This staggering subscription base is 16 million 
 more than those who subscribe to PS Now making it the clear competitor.  
+
 However, PlayStation still has the ability to bounce back. With the bundled services, 
 PlayStation can match all the perks that come with Xbox Game Pass Ultimate and for a lesser 
 price, when priced yearly. Business Insider notes, “at $15 per month Xbox Game Pass Ultimate 
@@ -124,5 +125,4 @@ www.theverge.com/2017/2/28/14761624/xbox-game-pass-subscription-game-service-fea
 15. Webb, Kevin. “Microsoft's Supercharged Xbox Subscription Service Will Save Me $5 Every 
 Month, and I'm Convinced That It's the Best Deal in Gaming Right Now.” Business 
 Insider, Business Insider, 10 June 2019, www.businessinsider.com/xbox-game-pass-ultimate-pc-best-deal-2019-6.  
-16. Xbox Game Pass. (2021, March 29). In Wikipedia. www.wikipedia.org/wiki/Xbox_Game_Pass#:~:text=On%20April%2018%2C%202019%
-2C%20Microsoft,began%20on%20June%209%2C%202019.
+16. Xbox Game Pass. (2021, March 29). In Wikipedia. www.wikipedia.org/wiki/Xbox_Game_Pass#:~:text=On%20April%2018%2C%202019%2C%20Microsoft,began%20on%20June%209%2C%202019.
