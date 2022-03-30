@@ -7,7 +7,7 @@ draft: false
 ---
 
 
-![Sony Group Corporation](/images/SonyLogo.jpg?nf_resize=fit&w=300&h=400) 
+![Sony Group Corporation](/images/SonyLogo.jpg) 
 
 Javier Hernandez  
 FIN 605  
